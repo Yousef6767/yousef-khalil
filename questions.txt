@@ -1,0 +1,22 @@
+{
+"Clients on a client/server network share their resources directly with each other.":
+"False",
+"Network functions are associated with only one layer of the OSI model.". "False",
+"For greater network efficiency, segmentation is preferred.": "False",
+"The strength of an electrical signal is directly proportional to its frequency.": "False",
+"Modulation can be used to make a signal conform to a specific pathway.": "True",
+"Latency occurs when a signal traveling on one wire or cable infringes on the signal traveling over an adjacent wire or cable." :"False",
+"The maximum distance a signal can travel and still be interpreted accurately is equal to a segment’s maximum length." : "True ",
+"All protocols are routable.": "False",
+"ICMP (Internet Control Message Protocol) reports on the success or failure of data delivery.": " True ",
+"The format of ARP tables is the same from one operating system to another." : "False",
+"If your network does not need or use APIPA, it must be uninstalled to avoid conflicts." : " False ",
+"Modern Ethernet networks are based on the star topology." :"True",
+"The smallest LANs do not have a backbone." : "False",
+"A serial backbone is the simplest kind of backbone." : "True",
+"The most popular method for connecting nodes on a network is circuit switching." :"False",
+"In data networks, the task of directing information efficiently to the correct destination is handled by connectivity devices, primarily switches and routers ." : " True ",
+"It is best to perform connectivity tests on a computer connected to a live network ." : " True ",
+"192.168.1.4 is a class B address. ":"f",
+"Router is a layer 3 device. ":"t"
+"SDN refers to Software Defined Network. ":"t" }
